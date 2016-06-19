@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'bootstrap-sass'
+gem 'bcrypt', '~> 3.1.7' #安裝加密工具
 
 gem 'pry' #裝pry›
 
